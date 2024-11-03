@@ -1,0 +1,11 @@
+cv2
+sklearn.cluster
+collections
+numpy
+pandas
+os
+matplotlib.pyplot
+sklearn
+nbformat
+ipykernel
+pytest
